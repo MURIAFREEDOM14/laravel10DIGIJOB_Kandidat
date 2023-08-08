@@ -13,7 +13,8 @@ class LamanController extends Controller
 {
     public function index()
     {
-        return view('laman');
+        return redirect('https://ugiport.com');
+        // return view('laman');
     }
 
     public function loginSemua()

@@ -2,3 +2,4 @@
 public/hot
 public/hot
 app/Http/Controllers/KandidatController.php
+node_modules
